@@ -1,0 +1,21 @@
+
+
+.flex{
+
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    justify-items: center;
+}
+
+h2{
+    background-color: #ddd;
+    padding: 20px;
+    border-radius: 4px;
+    margin: 0px;
+}
+
+body{
+    margin: 0px;
+}
